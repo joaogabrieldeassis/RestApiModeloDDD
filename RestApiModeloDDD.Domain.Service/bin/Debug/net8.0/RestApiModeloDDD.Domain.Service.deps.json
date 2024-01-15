@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RestApiModeloDDD.Domain.Service/1.0.0": {
+        "runtime": {
+          "RestApiModeloDDD.Domain.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RestApiModeloDDD.Domain.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

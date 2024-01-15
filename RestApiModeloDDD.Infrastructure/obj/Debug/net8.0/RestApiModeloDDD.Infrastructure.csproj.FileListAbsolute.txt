@@ -1,0 +1,15 @@
+C:\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\bin\Debug\net8.0\RestApiModeloDDD.Infrastructure.deps.json
+C:\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\bin\Debug\net8.0\RestApiModeloDDD.Infrastructure.dll
+C:\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\bin\Debug\net8.0\RestApiModeloDDD.Infrastructure.pdb
+C:\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\obj\Debug\net8.0\RestApiModeloDDD.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\obj\Debug\net8.0\RestApiModeloDDD.Infrastructure.AssemblyInfoInputs.cache
+C:\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\obj\Debug\net8.0\RestApiModeloDDD.Infrastructure.AssemblyInfo.cs
+C:\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\obj\Debug\net8.0\RestApiModeloDDD.Infrastructure.csproj.CoreCompileInputs.cache
+C:\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\obj\Debug\net8.0\RestApiModeloDDD.Infrastructure.dll
+C:\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\obj\Debug\net8.0\refint\RestApiModeloDDD.Infrastructure.dll
+C:\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\obj\Debug\net8.0\RestApiModeloDDD.Infrastructure.pdb
+C:\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\obj\Debug\net8.0\ref\RestApiModeloDDD.Infrastructure.dll
+C:\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\bin\Debug\net8.0\RestApiModeloDDD.Domain.dll
+C:\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\bin\Debug\net8.0\RestApiModeloDDD.Domain.pdb
+C:\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\obj\Debug\net8.0\RestApiModeloDDD.Infrastructure.csproj.AssemblyReference.cache
+C:\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\obj\Debug\net8.0\RestApiModeloDDD.Infrastructure.csproj.CopyComplete

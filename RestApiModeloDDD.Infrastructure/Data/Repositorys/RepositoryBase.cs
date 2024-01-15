@@ -39,7 +39,7 @@ namespace RestApiModeloDDD.Infrastructure.Data.Repositorys
 
         public T GetByID(Guid id)
         {
-            _entities.FirstOrDefault(id);
+           return _entities.Find(id);
         }
 
         public void Update(T entity)

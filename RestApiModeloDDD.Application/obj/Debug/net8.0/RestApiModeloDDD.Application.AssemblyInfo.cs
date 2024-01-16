@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RestApiModeloDDD.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d43a2fa138f5167f9614fed0bd3f70b987dfea8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RestApiModeloDDD.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RestApiModeloDDD.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

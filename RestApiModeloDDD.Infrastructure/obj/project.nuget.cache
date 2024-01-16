@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1JabrMrvN/8M3ac/IxDI4a0jCYcTiYMfBVH1gQlGVGZiHDzmZeuTXPYyl9SfQNDXydLtWpnMPVnmr9x71jP8wQ==",
+  "dgSpecHash": "R16E+8PQkXv0lbDQLw6QSYnLhTrQAJG2iwuzvHJqjQ/bM2/srgpzICnsfcfBs8s7wXieUg6QulJRLocCSEcOWg==",
   "success": true,
   "projectFilePath": "C:\\RestApiModeloDDD\\RestApiModeloDDD.Infrastructure\\RestApiModeloDDD.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Windows\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
     "C:\\Users\\Windows\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.1\\microsoft.entityframeworkcore.8.0.1.nupkg.sha512",
     "C:\\Users\\Windows\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.1\\microsoft.entityframeworkcore.abstractions.8.0.1.nupkg.sha512",
     "C:\\Users\\Windows\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.1\\microsoft.entityframeworkcore.analyzers.8.0.1.nupkg.sha512",
@@ -14,7 +15,8 @@
     "C:\\Users\\Windows\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
     "C:\\Users\\Windows\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Windows\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
-    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

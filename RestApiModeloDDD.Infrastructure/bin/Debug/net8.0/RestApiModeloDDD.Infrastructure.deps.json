@@ -9,6 +9,7 @@
       "RestApiModeloDDD.Infrastructure/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "8.0.1",
+          "RestApiModeloDDD.Application": "1.0.0",
           "RestApiModeloDDD.Domain": "1.0.0",
           "RestApiModeloDDD.Domain.Core": "1.0.0"
         },
@@ -128,6 +129,15 @@
           }
         }
       },
+      "RestApiModeloDDD.Application/1.0.0": {
+        "dependencies": {
+          "RestApiModeloDDD.Domain": "1.0.0",
+          "RestApiModeloDDD.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "RestApiModeloDDD.Application.dll": {}
+        }
+      },
       "RestApiModeloDDD.Domain/1.0.0": {
         "runtime": {
           "RestApiModeloDDD.Domain.dll": {}
@@ -225,6 +235,11 @@
       "sha512": "sha512-bXJEZrW9ny8vjMF1JV253WeLhpEVzFo1lyaZu1vQ4ZxWUlVvknZ/+ftFgVheLubb4eZPSwwxBeqS1JkCOjxd8g==",
       "path": "microsoft.extensions.primitives/8.0.0",
       "hashPath": "microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+    },
+    "RestApiModeloDDD.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "RestApiModeloDDD.Domain/1.0.0": {
       "type": "project",

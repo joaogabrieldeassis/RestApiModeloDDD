@@ -5,6 +5,7 @@ C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\RestApiModeloD
 C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\RestApiModeloDDD.Application.AssemblyInfoInputs.cache
 C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\RestApiModeloDDD.Application.AssemblyInfo.cs
 C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\RestApiModeloDDD.Application.csproj.CoreCompileInputs.cache
+C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\RestApiModeloDDD.Application.sourcelink.json
 C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\RestApiModeloDDD.Application.dll
 C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\refint\RestApiModeloDDD.Application.dll
 C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\RestApiModeloDDD.Application.pdb

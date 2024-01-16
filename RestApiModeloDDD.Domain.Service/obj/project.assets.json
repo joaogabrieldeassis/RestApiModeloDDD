@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "RestApiModeloDDD.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/RestApiModeloDDD.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RestApiModeloDDD.Domain.dll": {}
+        }
+      },
+      "RestApiModeloDDD.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "RestApiModeloDDD.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RestApiModeloDDD.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RestApiModeloDDD.Domain.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "RestApiModeloDDD.Domain/1.0.0": {
+      "type": "project",
+      "path": "../RestApiModeloDDD.Domain/RestApiModeloDDD.Domain.csproj",
+      "msbuildProject": "../RestApiModeloDDD.Domain/RestApiModeloDDD.Domain.csproj"
+    },
+    "RestApiModeloDDD.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../RestApiModeloDDD.Core/RestApiModeloDDD.Domain.Core.csproj",
+      "msbuildProject": "../RestApiModeloDDD.Core/RestApiModeloDDD.Domain.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "RestApiModeloDDD.Domain.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Windows\\.nuget\\packages\\": {},
@@ -41,7 +78,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\RestApiModeloDDD\\RestApiModeloDDD.Core\\RestApiModeloDDD.Domain.Core.csproj": {
+              "projectPath": "C:\\RestApiModeloDDD\\RestApiModeloDDD.Core\\RestApiModeloDDD.Domain.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

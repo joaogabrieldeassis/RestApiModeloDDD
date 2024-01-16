@@ -16,6 +16,7 @@ C:\RestApiModeloDDD\TestApiModeloDDD.API\obj\Debug\net8.0\TestApiModeloDDD.API.A
 C:\RestApiModeloDDD\TestApiModeloDDD.API\obj\Debug\net8.0\TestApiModeloDDD.API.csproj.CoreCompileInputs.cache
 C:\RestApiModeloDDD\TestApiModeloDDD.API\obj\Debug\net8.0\TestApiModeloDDD.API.MvcApplicationPartsAssemblyInfo.cs
 C:\RestApiModeloDDD\TestApiModeloDDD.API\obj\Debug\net8.0\TestApiModeloDDD.API.MvcApplicationPartsAssemblyInfo.cache
+C:\RestApiModeloDDD\TestApiModeloDDD.API\obj\Debug\net8.0\TestApiModeloDDD.API.sourcelink.json
 C:\RestApiModeloDDD\TestApiModeloDDD.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\RestApiModeloDDD\TestApiModeloDDD.API\obj\Debug\net8.0\staticwebassets.development.json
 C:\RestApiModeloDDD\TestApiModeloDDD.API\obj\Debug\net8.0\staticwebassets\msbuild.TestApiModeloDDD.API.Microsoft.AspNetCore.StaticWebAssets.props

@@ -8,12 +8,12 @@ using System.Threading.Tasks;
 
 namespace RestApiModeloDDD.Infrastructure.Data.Repositorys
 {
-    public class RepositoryBase<T> : IRepositoryBase<T> where T : class 
+    public class RepositoryBase<T> : IRepositoryBase<T> where T : class, new()
     {
-        protected readonly SqlContext _context;
+        protected readonly DDDSqlContext _context;
         protected readonly DbSet<T> _entities;
 
-        protected RepositoryBase(SqlContext context)
+        protected RepositoryBase(DDDSqlContext context)
 
         {
             _context = context;
@@ -44,9 +44,10 @@ namespace RestApiModeloDDD.Infrastructure.Data.Repositorys
 
         public void Update(T entity)
         {
-            throw new NotImplementedException();
+            _entities.Update(entity);
         }
         public int SaveChanges() => _context.SaveChanges();
 
+        public void Dispose() => _context?.Dispose();
     }
 }

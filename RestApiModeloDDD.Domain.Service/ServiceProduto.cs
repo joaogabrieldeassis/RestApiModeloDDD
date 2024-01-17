@@ -11,9 +11,11 @@ namespace RestApiModeloDDD.Domain.Service
 {
     public class ServiceProduto : ServiceBase<Produto>, IServiceProduto
     {
-        public ServiceProduto(IRepositoryBase<Produto> repositoryBase) 
+
+        public ServiceProduto(IRepositoryProduto repositoryBase) 
             : base(repositoryBase)
         {
+
         }
     }
 }

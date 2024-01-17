@@ -10,7 +10,8 @@ namespace RestApiModeloDDD.Infrastructure.Data.Repositorys
 {
     public class RepositoryCliente : RepositoryBase<Cliente>,IRepositoryCliente
     {
-        protected RepositoryCliente(SqlContext context)
+
+        public RepositoryCliente(DDDSqlContext context)
             : base(context)
         {
         }

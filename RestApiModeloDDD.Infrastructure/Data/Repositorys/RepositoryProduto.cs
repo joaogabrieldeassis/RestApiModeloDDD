@@ -10,7 +10,7 @@ namespace RestApiModeloDDD.Infrastructure.Data.Repositorys
 {
     public class RepositoryProduto : RepositoryBase<Produto>,IRepositoryProduto
     {
-        protected RepositoryProduto(SqlContext context) 
+        public RepositoryProduto(DDDSqlContext context) 
             : base(context)
         {
         }

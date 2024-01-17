@@ -1,9 +1,3 @@
-C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\RestApiModeloDDD.Application.csproj.AssemblyReference.cache
-C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\RestApiModeloDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
-C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\RestApiModeloDDD.Application.AssemblyInfoInputs.cache
-C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\RestApiModeloDDD.Application.AssemblyInfo.cs
-C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\RestApiModeloDDD.Application.csproj.CoreCompileInputs.cache
-C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\RestApiModeloDDD.Application.sourcelink.json
 C:\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net8.0\RestApiModeloDDD.Application.deps.json
 C:\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net8.0\RestApiModeloDDD.Application.dll
 C:\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net8.0\RestApiModeloDDD.Application.pdb
@@ -11,6 +5,12 @@ C:\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net8.0\RestApiModeloD
 C:\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net8.0\RestApiModeloDDD.Domain.dll
 C:\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net8.0\RestApiModeloDDD.Domain.Core.pdb
 C:\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net8.0\RestApiModeloDDD.Domain.pdb
+C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\RestApiModeloDDD.Application.csproj.AssemblyReference.cache
+C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\RestApiModeloDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\RestApiModeloDDD.Application.AssemblyInfoInputs.cache
+C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\RestApiModeloDDD.Application.AssemblyInfo.cs
+C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\RestApiModeloDDD.Application.csproj.CoreCompileInputs.cache
+C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\RestApiModeloDDD.Application.sourcelink.json
 C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\RestApiModeloDDD.Application.csproj.CopyComplete
 C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\RestApiModeloDDD.Application.dll
 C:\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net8.0\refint\RestApiModeloDDD.Application.dll

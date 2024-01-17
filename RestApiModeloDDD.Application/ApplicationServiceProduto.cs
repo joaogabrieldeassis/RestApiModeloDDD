@@ -22,7 +22,6 @@ namespace RestApiModeloDDD.Application
             _serviceProduto = serviceProduto;
         }
 
-
         public void Add(ProdutoDto entityDto)
         {
             var produto = _mapperProduto.MapperDtoEntity(entityDto);

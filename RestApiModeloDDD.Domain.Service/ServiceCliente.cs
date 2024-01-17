@@ -10,10 +10,12 @@ using System.Threading.Tasks;
 namespace RestApiModeloDDD.Domain.Service
 {
     public class ServiceCliente : ServiceBase<Cliente>, IServiceCliente
-    {
-        public ServiceCliente(IRepositoryBase<Cliente> repositoryBase) 
+    {        
+
+        public ServiceCliente(IRepositoryCliente repositoryBase) 
             : base(repositoryBase)
         {
+
         }
     }
 }

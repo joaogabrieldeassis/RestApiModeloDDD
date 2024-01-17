@@ -3,7 +3,7 @@ using RestApiModeloDDD.Domain.Core.Interfaces.Services;
 
 namespace RestApiModeloDDD.Domain.Service
 {
-    public class ServiceBase<T> : IServiceBase<T> where T : class
+    public class ServiceBase<T> : IServiceBase<T> where T : class, new()
     {
         private readonly IRepositoryBase<T> _repositoryBase;
 

@@ -11,7 +11,6 @@ namespace RestApiModeloDDD.Application.Mapper
             return new Produto
             {
                 Nome = entityMapper.Nome,
-                Id = entityMapper.Id,
                 Valor = entityMapper.Valor
             };
         }

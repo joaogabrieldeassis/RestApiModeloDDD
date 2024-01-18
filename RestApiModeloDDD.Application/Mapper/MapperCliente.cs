@@ -11,7 +11,6 @@ namespace RestApiModeloDDD.Application.Mapper
         {
             return new Cliente
             {
-                Id = entityMapper.Id,
                 Nome = entityMapper.Nome,
                 SobreNome = entityMapper.Sobrenome,
                 Email = entityMapper.Email,

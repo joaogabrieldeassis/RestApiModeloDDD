@@ -15,7 +15,7 @@ namespace TestApiModeloDDD.API.Controllers
             _serviceCliente = serviceCliente;
         }
 
-        [HttpGet("buscar-todos-os-cliente")]
+        [HttpGet("buscar-todos-os-clientes")]
         public ActionResult<IEnumerable<ClienteDto>> GetAllClients()
         {
             return Ok(_serviceCliente.GetAll());
